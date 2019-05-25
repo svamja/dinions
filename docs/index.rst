@@ -27,3 +27,16 @@ escape
 ------
 
 The escape key can be used to clear the focused date and hide and re-show the datepicker; hiding the picker is necessary if the user wants to manually edit the value.
+
+Table of Contents
+-----------------
+
+.. toctree::
+
+   markup
+   options
+   methods
+   events
+   keyboard
+   i18n
+   
