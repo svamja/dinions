@@ -1,5 +1,5 @@
-Introduction
-============
+Keyboard
+========
 
 TBD
 The datepicker includes keyboard navigation.  The "focused date" is kept track of and highlighted (as with mouse hover) during keyboard nav, and is cleared when a date is toggled or the picker is hidden.
